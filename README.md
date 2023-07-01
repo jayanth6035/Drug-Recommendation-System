@@ -1,2 +1,3 @@
 # Drug-Recommendation-System
-To predict the condition of the patient and to recommend him top 5 drugs for his condition
+Our goal is to examine how patients are feeling using the drugs their positive and negative experiences so that we can recommend him a suitable drug. 
+
